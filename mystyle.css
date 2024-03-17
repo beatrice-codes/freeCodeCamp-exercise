@@ -1,0 +1,23 @@
+body {
+    font-family: serif;
+    background-color: bisque;
+    text-align: center;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+li {
+    list-style-position: inside;
+}
+
+hr {
+    background-color: black;
+    border-color: black;
+}
+
+footer {
+    padding-top: 15px;
+}
