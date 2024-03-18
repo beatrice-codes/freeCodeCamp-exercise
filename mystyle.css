@@ -1,12 +1,9 @@
 body {
     font-family: serif;
-    background-color: bisque;
     text-align: center;
     max-width: 500px;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 25px;
-    padding-bottom: 25px;
 }
 
 li {
@@ -20,4 +17,9 @@ hr {
 
 footer {
     padding-top: 15px;
+}
+
+h1 {
+    background: linear-gradient(90deg, rgb(127, 0, 127), rgb(0, 127, 127));
+    padding: 10px 0;
 }
