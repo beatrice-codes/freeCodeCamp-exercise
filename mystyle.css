@@ -25,3 +25,9 @@ h1 {
     color: white;
     font-weight: lighter;
 }
+
+.submit {
+    margin: 1em 0;
+    background-color: fuchsia;
+    color: white;
+}
